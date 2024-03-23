@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&random=false&width=500&height=100&lines=Faster+Md+created+by+Frank;Follow+me+IG+%40confronter._)](https://git.io/typing-svg) 
 # <h1 align="center"> Faster Md</h1> 
 <p align="center"> latest and best whatsapp bot Flasher Md with many feautures enjoy. </p>
 
@@ -32,5 +33,9 @@
 3.  **Click to fork [`FORK`](https://github.com/Confronter/Faster-Md/fork) and `Star ⭐ Repository` if you Like that Bot.**
 4.  **Deploy now on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Confronter/Faster-Md)**
 ---
+# Developer
+  - [**Follow Instagram**](https://instagram.com/confronter._)
+- [**WhatsApp Me**](https://wa.me/254793908571)
+
 
 - Star ⭐ repo if you like this bot.
