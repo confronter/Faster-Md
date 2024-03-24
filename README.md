@@ -28,7 +28,7 @@
  
 🌿 Deployment Methods
 ---
-1.  ***Get [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`**
+1.  **Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***`**
 2.  **Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
 3.  **Click to fork [`FORK`](https://github.com/Confronter/Faster-Md/fork) and `Star ⭐ Repository` if you Like that Bot.**
 4.  **Deploy now on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Confronter/Faster-Md)**
