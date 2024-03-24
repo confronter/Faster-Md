@@ -1,7 +1,7 @@
 {
   "name": "Faster-Md By Confronter Tech",
   "description": "A Whatsapp bot built by Frank Whatsapp me +254793908571",
-  "logo": "https://i.imgur.com/NpA3ZsJ.jpeg",
+  "logo": "https://telegra.ph/file/f13c6afdf910acbed809d.jpg",
   "keywords": ["whatsappbot", "fasterMd", "faster Md Wa bot", "Faster-Md", "FasterMdWhatsaooBot", "FasterWaBot","FasterMD","Faster Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "stack": "container",
@@ -64,8 +64,8 @@
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
     "value": "254101003655"
   },
-   "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit\nhttps://replit.com/@SuhailTechInfo/Secktor-Bot"
+   "SESSION_ID":{
+    "description": "Please put your SESSION_ID here"
   },
   "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -78,8 +78,8 @@
     "required" :false
   },
   "MONGODB_URI": {
-    "description": "Put your own Mongodb key. Its a secret String for Mongodb Connection.(Required)",
-    "value": ""
+    "description": "Put your own Mongodb key. Use this if you dont have.(Required)",
+    "value": "mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp"
   },
   "MODE": {
     "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
